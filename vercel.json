@@ -1,7 +1,1 @@
-{
-  "functions": {
-    "api/log.js": {
-      "runtime": "nodejs24.x"
-    }
-  }
-}
+{}
