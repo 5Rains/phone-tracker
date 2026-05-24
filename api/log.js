@@ -13,7 +13,8 @@ export default function handler(req, res) {
   }
 
   const secret = req.headers['authorization'];
-  if (secret !== 'Bearer 小鱼专属密钥2024') {
+ if (secret !== 'Bearer xiaoyu2024') {
+
     return res.status(401).json({ error: '未授权' });
   }
 
