@@ -1,0 +1,6 @@
+{
+  "name": "phone-tracker",
+  "version": "1.0.0",
+  "description": "小鱼手机使用记录追踪",
+  "main": "api/log.js"
+}
